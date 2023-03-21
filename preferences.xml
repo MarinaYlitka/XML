@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<myfav>
+    <fav_film> "The Pianist" </fav_film>
+	<fav_serial> "This is us" </fav_serial>
+	<fav_food> Thom Yam </fav_food>
+	<fav_season> Spring </fav_season>
+	<country_to_visit> Australia </country_to_visit>
+</myfav>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Skills_from_this_course>
+	<header>Skills:</header>
+	<list>
+		<skill>
+			<skill_id>1</skill_id>
+			<skill_value>Linux terminal</skill_value>
+		</skill>
+		<skill>
+			<skill_id>2</skill_id>
+			<skill_value>Git Bush</skill_value>
+		</skill>
+		<skill>
+			<skill_id>3</skill_id>
+			<skill_value>Client-server architecture</skill_value>
+		</skill>
+		<skill>
+			<skill_id>4</skill_id>
+			<skill_value>Postman</skill_value>
+		</skill>
+		<skill>
+			<skill_id>5</skill_id>
+			<skill_value>Markdown</skill_value>
+		</skill>
+		<skill>
+			<skill_id>6</skill_id>
+			<skill_value>SQL</skill_value>
+		</skill>
+		<skill>
+			<skill_id>7</skill_id>
+			<skill_value>JSON</skill_value>
+		</skill>
+		<skill>
+			<skill_id>8</skill_id>
+			<skill_value>Pithon</skill_value>
+		</skill>
+		\<skill>
+			<skill_id>9</skill_id>
+			<skill_value>JS</skill_value>
+		</skill>
+		<skill>
+			<skill_id>10</skill_id>
+			<skill_value>Mobile testing</skill_value>
+		</skill>
+	</list>	
+</Skills_from_this_course>
