@@ -1,1 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<bug_report>
+	<collumn>
+		<title>ID</title>
+		<value>2</value>
+	</collumn>
+	<collumn>
+		<title>Priority</title>
+		<value>Low</value>
+	</collumn>
+	<collumn>
+		<title>Title</title>
+		<value>Column alignment is uneven</value>
+	</collumn>
+	<collumn>
+		<title>Steps</title>
+		<value>
+			<list>
+				<num>1</num>
+				<action>Open main page</action> 
+			</list>
+		</value>
+	</collumn>
+	<collumn>
+		<title>ER</title>
+		<value>"Most Read" and "News Feed" on the same height line (2 attach)</value>
+	</collumn>
+	<collumn>
+		<title>AR</title>
+		<value>'News feed' lower than 'Most read' (1 attach)</value>
+	</collumn>
+	<collumn>
+		<title>OS</title>
+		<value>Win10; х64, Chrome 109.0.5414.120</value>
+	</collumn>
+	<collumn>
+		<title>Attachment</title>
+		<value>
+			<list>
+			<attach>
+				<attach_id>1</attach_id>
+				<attach_value>(pic)  – AR</attach_value> 
+			</attach>
+			<attach>
+				<attach_id>2</attach_id>
+				<attach_value>(pic) – ER example</attach_value>
+			</attach>
+			</list>
+		</value>
+	</collumn>
+</bug_report>
